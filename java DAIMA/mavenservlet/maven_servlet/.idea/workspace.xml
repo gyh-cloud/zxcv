@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="maven_servlet:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ada1b0-2149-4302-962e-0c462f423e21" name="Default Changelist" comment="">
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$R0YJLFI/maven-servlet/maven-servlet.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$R6YSATQ/untitled.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RCUJCCL/maven-first.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RIA52WR/aaaa.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RS9RFAD/project/maven-first/maven-first.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RUD4X5X/maven-first/maven-first.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RUD4X5X/maven-servlet/maven-servlet.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RUJL89W.idea/java DAIMA.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RWPD4GZ/aa.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/Day31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/Maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/controller/UserFindAllController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/controller/UserFindByIdController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/controller/UserUpdateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/dao/UserDaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/dao/impl/UserDaosImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/service/UserServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/service/impl/UserServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/com/qf/util/DBtools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/controller/UserFindAllController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/controller/UserFindByIdController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/controller/UserUpdateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/dao/UserDaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/dao/impl/UserDaosImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/service/UserServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/service/impl/UserServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qf/util/DBtools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/maven_servlet.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserFindAllController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserFindByIdController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserUpdateController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/UserDaos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/impl/UserDaosImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/UserServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/impl/UserServicesImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/util/DBtools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/META-INF/maven_servlet.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/controller/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/controller/UserFindAllController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/controller/UserFindByIdController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/controller/UserUpdateController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/dao/UserDaos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/dao/impl/UserDaosImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/service/UserServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/service/impl/UserServicesImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/com/qf/util/DBtools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/commons-dbutils-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/druid-1.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/junit-4.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-servlet/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xiaomi_pro/xiaomi_pro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/1阶段/demo/day10/源码/.idea/源码.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/day31/day31.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(1)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(10)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(11)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(12)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(13)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(14)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(15)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(16)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(17)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(18)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(19)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(2)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(20)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(21)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(22)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(23)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(24)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(25)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(26)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(27)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(28)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(29)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(3)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(30)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(31)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(4)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(5)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(6)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(7)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(8)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro(9)/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomiPro/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/2阶段/2阶段demo/xiaomi_pro/xiaomi_pro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/3代码/project(1)/maven-first/maven-first.iml" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/apache-tomcat-7.0.78/apache-tomcat-7.0.78/webapps/ROOT/WEB-INF/classes/META-INF/maven_servlet.kotlin_module" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/apache-tomcat-7.0.78/apache-tomcat-7.0.78/webapps/ROOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/apache-tomcat-7.0.78/apache-tomcat-7.0.78/webapps/ROOT/index.jsp" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/apache-tomcat-7.0.78/apache-tomcat-7.0.78/webapps/ROOT/regist.jsp" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/apache-tomcat-7.0.78/apache-tomcat-7.0.78/webapps/ROOT/update.jsp" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/apache-tomcat-7.0.78/apache-tomcat-7.0.78/webapps/ROOT/userlist.jsp" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/feiq/Recv Files/workspace2/day31/day31.iml" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/feiq/Recv Files/workspace2/demo/demo.iml" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/feiq/Recv Files/workspace2/xiaomi/xiaomi.iml" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/feiq/Recv Files/workspace2/xiaomiPro/xiaomiPro.iml" afterDir="false" />
+      <change afterPath="F:/桌面/JAVA所需软件/feiq/Recv Files/workspace2/xiaomi_pro/xiaomi_pro.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.5.4-bin" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k2GYbA1RZ1m9U20wpK7vfVtp1t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/pom.xml" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/qf/dao" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\resources" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\webapp" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\src" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\src\main" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\src\com\qf\dao" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\webapp" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\src\com\qf\controller" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet\web" />
+      <recent name="F:\java DAIMA\mavenservlet\maven_servlet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7.0.781" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.781" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="maven_servlet:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_781_maven_servlet" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59647" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="maven_servlet:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.781" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59647" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59648" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ada1b0-2149-4302-962e-0c462f423e21" name="Default Changelist" comment="" />
+      <created>1604891321676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604891321676</updated>
+      <workItem from="1604891328962" duration="6543000" />
+      <workItem from="1604906364379" duration="6183000" />
+      <workItem from="1604915222235" duration="4696000" />
+      <workItem from="1604922763040" duration="4184000" />
+      <workItem from="1604968311633" duration="949000" />
+      <workItem from="1604969467193" duration="4986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
