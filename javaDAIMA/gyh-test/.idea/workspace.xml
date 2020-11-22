@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a617c66-7960-4aa6-b811-aaaf88ad8209" name="Default Changelist" comment="gyh">
-      <change afterPath="$PROJECT_DIR$/../fina/fina.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/controller/StudentController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/controller/UserController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/dao/StudentMapper.java" afterDir="false" />
@@ -20,7 +19,6 @@
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/service/StudentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/service/UserService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/utils/UploadUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/jdbc.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/mvc.xml" afterDir="false" />
@@ -28,7 +26,6 @@
       <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/insert.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/js/jquery-3.3.1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/layui.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/layui.mobile.css" afterDir="false" />
@@ -244,7 +241,6 @@
       <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/util.js" afterDir="false" />
       <change afterPath="F:/桌面/3/第二周/第五天/project/ssm-layui/ssm-layui.iml" afterDir="false" />
       <change afterPath="F:/桌面/3/第二周/第四天/project/springmvc-02new/springmvc-02.iml" afterDir="false" />
-      <change afterPath="F:/桌面/项目PPT.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/javaDAIMA.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day31/Day31.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/.idea/.gitignore" beforeDir="false" />
@@ -285,7 +281,7 @@
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/com/qf/service/impl/UserServiceimpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/com/qf/util/BeanFactory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/com/qf/util/MyDruidPoolDataSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fina/src/main/resources/jdbc.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/factory.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/WEB-INF/classes/mapper/ClassesMapper.xml" beforeDir="false" />
@@ -332,7 +328,7 @@
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/bootstrap/js/bootstrap-dropdown.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/bootstrap/js/bootstrap-transition.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fina/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/bootstrap/js/npm.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/image/1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/static/image/2.jpg" beforeDir="false" />
@@ -424,7 +420,7 @@
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qqqqqq/qqqqqq.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qqqqqq/qqqqqq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fina/fina.iml" afterDir="false" />
       <change beforePath="F:/桌面/1阶段/demo/day10/源码/.idea/源码.iml" beforeDir="false" />
       <change beforePath="F:/桌面/2阶段/2阶段demo/day31/day31.iml" beforeDir="false" />
       <change beforePath="F:/桌面/2阶段/2阶段demo/xiaomiPro(1)/xiaomiPro.iml" beforeDir="false" />
@@ -736,6 +732,7 @@
       <workItem from="1605852286012" duration="18189000" />
       <workItem from="1606025850728" duration="2526000" />
       <workItem from="1606029056404" duration="2618000" />
+      <workItem from="1606033299367" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="gyh">
       <created>1606026718192</created>
@@ -772,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606033032969</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gyh">
+      <created>1606033364577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606033364577</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
