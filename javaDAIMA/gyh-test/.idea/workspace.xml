@@ -416,8 +416,6 @@
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/teacher.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/test-classes/com/qf/TestSpring.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/test-classes/com/qf/Testtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mavenservlet/.idea/mavenservlet.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/.gitignore" beforeDir="false" />
@@ -524,7 +522,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -722,6 +720,7 @@
       <workItem from="1606034023975" duration="47000" />
       <workItem from="1606034827232" duration="180000" />
       <workItem from="1606035022154" duration="414000" />
+      <workItem from="1606035460158" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="gyh">
       <created>1606026718192</created>
@@ -772,7 +771,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606033538405</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hhh">
+      <created>1606035560116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606035560116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -793,7 +799,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="gyh" />
-    <option name="LAST_COMMIT_MESSAGE" value="gyh" />
+    <MESSAGE value="hhh" />
+    <option name="LAST_COMMIT_MESSAGE" value="hhh" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1606035382322">
@@ -812,13 +819,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606035248341" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1606035555185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606035555185" />
     <state x="548" y="152" key="FileChooserDialogImpl" timestamp="1606035239685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606035239685" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1606035440908">
+    <state x="270" y="56" key="SettingsEditor" timestamp="1606035751946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606035440908" />
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606035751946" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606036038612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606036038612" />
+    <state x="565" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606036027229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="311" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606036027229" />
   </component>
 </project>
