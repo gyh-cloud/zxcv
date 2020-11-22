@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--id 代表对象自定义名称， class 代表你想要生成类的全限定类名 -->
+    <bean id="userDao" class="com.qf.dao.impl.UserDaoimpl"></bean>
+    <bean id="userService" class="com.qf.service.impl.UserServiceimpl">
+        <property name="userDaoimpl" ref="userDao"></property>
+    </bean>
+
+   <!-- <bean id="teacherService" class="com.qf.service.impl.UserServiceimpl"></bean>
+    <bean id="teacher" class="com.qf.pojo.Teacher"></       bean>-->
+    <bean id="teacherService" class="com.qf.service.impl.TeacherSerivceimpl"></bean>
+    <bean id="teacher" class="com.qf.pojo.Teacher"></bean>
+
+    <bean id="student" class="com.qf.pojo.Student">
+        <property name="studentName" value="赵云"></property>
+        <property name="classId" value="2"></property>
+        <property name="bir" value="2000/10/09 "></property>
+    </bean>
+    <!-- aop config配置，告诉增强方法，什么地方执行-->
+    <!--
+    切入点表达式的写法：
+                 关键字：execution(表达式)
+                 表达式：
+                     访问修饰符  返回值  包名.包名.包名...类名.方法名(参数列表)
+                 标准的表达式写法：
+                     public void com.qf.service.impl.BookServiceImpl.save()
+                 访问修饰符可以省略
+                     void com.qf.service.impl.BookServiceImpl.save()
+                 返回值可以使用通配符，表示任意返回值
+                     * com.qf.service.impl.BookServiceImpl.save()
+                 包名可以使用通配符，表示任意包。但是有几级包，就需要写几个*.
+                     * *.*.*.BookServiceImpl.save())
+                 包名可以使用..表示当前包及其子包
+                     * *..BookServiceImpl.save()
+                 类名和方法名都可以使用*来实现通配
+                     * *..*.*()
+                 参数列表：
+                     可以直接写数据类型：
+                         基本类型直接写名称           int
+                         引用类型写包名.类名的方式   java.lang.String
+                     可以使用通配符表示任意类型，但是必须有参数
+                     可以使用..表示有无参数均可，有参数可以是任意类型
+                 全通配写法：
+                     * *..*.*(..)
+
+                 实际开发中切入点表达式的通常写法：
+                 切到业务层实现类下的所有方法
+                 * com.qf.service.impl.*.*(..)
+    -->
+    <bean id="aopAspect" class="com.qf.aop.AopAspect"></bean>
+    <aop:config>
+        <aop:pointcut id="ponit" expression="execution(* *.*.*.*.*.*(..)))"/>
+        <aop:aspect ref="aopAspect">
+            <aop:around method="around" pointcut-ref="ponit"></aop:around>
+        </aop:aspect>
+    </aop:config>
+</beans>
