@@ -7,31 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a617c66-7960-4aa6-b811-aaaf88ad8209" name="Default Changelist" comment="gyh">
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00001wqlx2tFZ9X.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M000080NBt42T4xD.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0001T6VFi1eafxm.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0001b2mFV2DgExX.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0001d2vPj0zzTZV.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0001gp7qs1BHoaV.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0001vXnrY09k2BT.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0001yrRiv2HaDwI.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00020MVED46y2xh.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00021s9l51DE0kF.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00023JVrm4KmFKu.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00025mPJN4dwhpO.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00026GG814HkHcw.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00028izw62Tw4TB.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0002Ao1N13497RN.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0002BuJzd3ye6uP.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0002IGemo21f1Vn.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0002bB5aL3osY5r.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0002nhRYr2eOQGC.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0003Wo6eV405olC.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M0003XCSJ32AN5od.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/F0M00041u9o941XjOT.mflac.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/O6M0000kkw4b22uuXk.mgg.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/O6M0002LcwJQ3Od6mZ.mgg.cache" afterDir="false" />
-      <change afterPath="F:/QQMusicCache/QMDL/O6M0003kVaS92coJzD.mgg.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/fina.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/controller/StudentController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/controller/UserController.java" afterDir="false" />
@@ -444,7 +419,6 @@
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/teacher.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/test-classes/com/qf/TestSpring.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/test-classes/com/qf/Testtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mavenservlet/.idea/mavenservlet.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/compiler.xml" beforeDir="false" />
@@ -761,7 +735,7 @@
       <updated>1605852284598</updated>
       <workItem from="1605852286012" duration="18189000" />
       <workItem from="1606025850728" duration="2526000" />
-      <workItem from="1606029056404" duration="2272000" />
+      <workItem from="1606029056404" duration="2517000" />
     </task>
     <task id="LOCAL-00001" summary="gyh">
       <created>1606026718192</created>
@@ -784,7 +758,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606029763076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gyh">
+      <created>1606032763339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606032763339</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
