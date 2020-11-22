@@ -1,0 +1,23 @@
+#outer{
+    width: 100px;
+    border: solid 5px #ff0000;
+    margin: auto;
+}
+.item1{
+    width: 100px;
+    height: 20px;
+    background-color: aquamarine;
+    overflow: hidden;/*溢出属性*/
+}
+.item1:hover{
+    height: 60px;
+}
+.item2{
+    width: 100px;
+    height: 20px;
+    background-color: aquamarine;
+    overflow: hidden;/*溢出属性*/
+}
+.item2:hover{
+    height: 60px;
+}

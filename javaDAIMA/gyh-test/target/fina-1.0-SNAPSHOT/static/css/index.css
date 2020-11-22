@@ -1,0 +1,241 @@
+
+a:link{
+    text-decoration: none;
+    color: #F10000;
+}
+#outer {
+    width: 1200px;
+    margin: auto;
+}
+
+/*
+#lay1 {
+    width: 1200px;
+    height: 50px;
+}
+
+#lay1 .left1 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#lay1 .left1 img {
+    width: 40px;
+    height: 40px;
+}
+
+#lay1 .left2 {
+    width: 30px;
+    height: 40px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#lay1 .left2 img {
+    width: 30px;
+    height: 40px;
+}
+
+#lay1 .right {
+    width: 400px;
+    height: 50px;
+    float: right;
+}
+
+#lay1 .right div {
+    float: left;
+    height: 21px;
+    margin-top: 15px;
+}
+#lay1 .right a{
+    width: 50px;
+    float: left;
+}
+#lay1 .right .ip {
+    width: 176px;
+}
+
+#lay1 .right .pic {
+    width: 50px;
+}
+
+#lay1 .right .pic img {
+    height: 21px;
+}
+*/
+
+#lay2 {
+    width: 1200px;
+    height: 500px;
+    overflow: hidden;
+    margin: auto;
+}
+#lay2_inner{
+    width: 12000px;
+    height: 500px;
+
+}
+#lay2_inner img{
+    width: 1200px;
+    height: 500px;
+}
+#mc{
+    width: 1200px;
+    height: 500px;
+    background-color: rgba(255,0,0,0);
+    position: absolute;
+    top: 59px;
+    left: 160px;
+}
+#mc .items{
+    width: 20px;
+    height: 20px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 20px;
+    position: relative;
+}
+
+#lay2 img {
+    width: 1200px;
+    height: 500px;
+}
+
+#menu {
+    width: 160px;
+    height: 500px;
+    position: absolute;
+    top: 83px;
+    left: 160px;
+    font-weight: bold;
+}
+
+#menu .items{
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 13px;
+    padding-left: 28px;
+}
+#menu_item{
+    width: 600px;
+    height: 500px;
+    position: absolute;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    display: none;
+}
+/*#menu_item .inner{
+    width: 150px;
+    height: 115px;
+    float: left;
+}
+
+#menu_item .inner .a1{
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#menu_item .inner .a1 img{
+    width: 90px;
+    height: 90px;
+}
+#menu_item .inner .a2 {
+    width: 60px;
+    height: 60px;
+    float: left;
+}*/
+#lay3 {
+    width: 1200px;
+    height: 195px;
+    padding-top: 5px;
+    margin: auto;
+}
+
+#lay3 .left, #lay3 .right {
+    float: left;
+    height: 190px;
+
+}
+
+#lay3 .left {
+    width: 220px;
+    margin-left: 1px;
+}
+
+#lay3 .left .a {
+    width: 73px;
+    height: 95px;
+    float: left;
+}
+
+#lay3 .left .a img {
+    width: 73px;
+    height: 95px;
+}
+
+#lay3 .right {
+    margin-left: 6px;
+    width: 320px;
+}
+
+#lay3 .right img {
+    width: 320px;
+    height: 190px;
+}
+
+#lay4 {
+    width: 1185px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+    margin: auto;
+}
+
+#lay5 {
+    width:1200px;
+    height: 250px;
+    margin: auto;
+}
+#lay5 .items{
+    width:230px;
+    height:250px;
+    float: left;
+    margin-left:10px ;
+}
+#lay5 .items .pic{
+    width:180px;
+    height:205px;
+    margin: auto;
+}
+#lay5 .items .pic img{
+    width:180px;
+    height:180px;
+}
+#lay5 .items .name,#lay5 .items .info,#lay5 .items .price{
+    width:200px;
+    height:15px;
+    text-align: center;
+    line-height: 15px;
+    font-size:12px;
+}
+#lay5 .items .info{
+    color: #cccccc;
+}
+#lay5 .items .price{
+    color:#ff0000;
+}
+
+#lay6 {
+    width:1200px;
+    height: 250px;
+    margin: auto;
+}

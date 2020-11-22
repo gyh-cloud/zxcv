@@ -1,0 +1,30 @@
+
+.goods{
+    width:270px;
+    height:300px;
+    float: left;
+}
+
+.goods .i1{
+    width: 240px;
+    height: 150px;
+}
+.goods .i1 img{
+    width: 240px;
+    height: 150px;
+}
+.goods .i2{
+    width: 240px;
+    height: 50px;
+    line-height: 20px;
+    text-align: center;
+}
+.goods .q img{
+    width: 57px;
+    height: 50px;
+    float: right;
+}
+.ys{
+    text-align: center;
+    margin: auto;
+}

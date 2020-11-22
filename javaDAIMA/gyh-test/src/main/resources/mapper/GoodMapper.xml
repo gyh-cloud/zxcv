@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qf.dao.GoodMapper">
+
+    <resultMap id="BaseResult" type="good">
+        <id column="g_id" property="gid"></id>
+        <result column="g_name" property="gname"></result>
+        <result column="g_des" property="gdes"></result>
+        <result column="g_price" property="gprice"></result>
+        <result column="g_discount" property="gdiscount"></result>
+        <result column="g_pic" property="gpic"></result>
+    </resultMap>
+    <sql id="base">
+        g_id,g_name,g_des,g_price,g_discount,g_pic
+    </sql>
+
+    <select id="findAll" resultMap="BaseResult">
+        select  <include refid="base"></include> from s_good
+    </select>
+
+    <select id="findById" resultMap="BaseResult">
+        select <include refid="base"></include> from s_good
+        <where>
+            g_id=#{id}
+        </where>
+    </select>
+
+    <update id="updateById" parameterType="good">
+        update s_good set g_name=#{gname} ,g_des=#{gdes},g_price=#{gprice},g_discount=#{gdiscount},g_pic=#{gpic} where g_id=#{gid}
+    </update>
+
+    <delete id="deleteById">
+        delete from s_good where g_id=#{id}
+    </delete>
+
+    <insert id="insert" parameterType="good">
+        insert into s_good(g_name,g_des,g_price,g_discount,g_pic) values (#{gname},#{gdes},#{gprice},#{gdiscount},#{gpic})
+    </insert>
+
+
+</mapper>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gyh-test:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a617c66-7960-4aa6-b811-aaaf88ad8209" name="Default Changelist" comment="">
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RASG6CA/Finally.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RCUKSN3/finally.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RNA38GE/springmvc-02.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RONYLRA/final.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RQM1C09/qqqqqq.iml" afterDir="false" />
+      <change afterPath="F:/$RECYCLE.BIN/S-1-5-21-660192260-1250603549-3366563883-1038/$RVFEG5A/ssm01.iml" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00001wqlx2tFZ9X.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M000080NBt42T4xD.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0001T6VFi1eafxm.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0001b2mFV2DgExX.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0001d2vPj0zzTZV.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0001gp7qs1BHoaV.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0001vXnrY09k2BT.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0001yrRiv2HaDwI.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00020MVED46y2xh.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00021s9l51DE0kF.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00023JVrm4KmFKu.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00025mPJN4dwhpO.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00026GG814HkHcw.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00028izw62Tw4TB.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0002Ao1N13497RN.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0002BuJzd3ye6uP.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0002IGemo21f1Vn.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0002bB5aL3osY5r.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0002nhRYr2eOQGC.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0003Wo6eV405olC.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M0003XCSJ32AN5od.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/F0M00041u9o941XjOT.mflac.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/O6M0000kkw4b22uuXk.mgg.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/O6M0002LcwJQ3Od6mZ.mgg.cache" afterDir="false" />
+      <change afterPath="F:/QQMusicCache/QMDL/O6M0003kVaS92coJzD.mgg.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/fina.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/dao/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/interceptor/MyInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/service/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/java/com/qf/utils/UploadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/resources/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/src/main/webapp/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fina/target/fina-1.0-SNAPSHOT/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gyh-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/controller/GoodController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/dao/GoodMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/pojo/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/service/GoodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/service/impl/GoodServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/utils/UploadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/good.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/js/bootstrap-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/js/bootstrap-transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/admin_main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/admin_menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/admin_top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/admin_user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/background/first_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/background/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/goods_user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/head.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/regist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/5c_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/85ff1e00-60f5-44af-ad6d-3d7302b909ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/MIX-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/Redmi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/compare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/first_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/ghs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/gwc_xiaomi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hjh_01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hjh_02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hjh_03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hjh_04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hjh_05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hjh_06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hm4-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hm4A-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hm4x_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hmn4x80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hmnote4-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hongmi4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/hongmin4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_hongmin4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_hongmin42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_hongmin4_dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_hongmin4x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_xiaomi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_xiaomi5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_xiaomi5s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_xiaomi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_xiaomimix.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liebiao_xiaomint2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/liulangengduo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/logo_foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/logo_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/mijiakai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/mimobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/mistore_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/part15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/part16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/peijian9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/pinghengche.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/pinpai1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/pinpai2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/pinpai3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/pinpai4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/pinpai5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/star_red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/tv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/x2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/x3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xiaomi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xiaomi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xiaomi3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xiaomi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xiaomi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xm5-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xm5S-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xm5Splus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xm6_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xmNOTE2-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/xmad_14926862610682_UhkfS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/yanzhengma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/yyymix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/z5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/gyh-test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/GoodController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/dao/GoodMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/pojo/Good.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/GoodService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/impl/GoodServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/utils/UploadUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GoodMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/META-INF/gyh-test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/com/qf/controller/GoodController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/com/qf/dao/GoodMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/com/qf/pojo/Good.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/com/qf/service/GoodService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/com/qf/service/impl/GoodServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/com/qf/utils/UploadUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/mapper/GoodMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/classes/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/okhttp-3.14.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/okio-1.17.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-5.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/qiniu-java-sdk-7.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/good.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/js/bootstrap-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/js/bootstrap-transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/admin_main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/admin_menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/admin_top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/admin_user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/background/first_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/background/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/goods_user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/head.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/css/regist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/5c_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/85ff1e00-60f5-44af-ad6d-3d7302b909ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/MIX-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/Redmi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/compare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/first_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/ghs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/gwc_xiaomi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hjh_01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hjh_02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hjh_03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hjh_04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hjh_05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hjh_06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hm4-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hm4A-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hm4x_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hmn4x80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hmnote4-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hongmi4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/hongmin4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_hongmin4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_hongmin42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_hongmin4_dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_hongmin4x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_xiaomi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_xiaomi5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_xiaomi5s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_xiaomi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_xiaomimix.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liebiao_xiaomint2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/liulangengduo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/logo_foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/logo_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/mijiakai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/mimobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/mistore_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/part15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/part16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/peijian9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/pinghengche.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/pinpai1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/pinpai2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/pinpai3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/pinpai4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/pinpai5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/star_red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/tv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/x2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/x3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xiaomi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xiaomi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xiaomi3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xiaomi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xiaomi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xm5-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xm5S-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xm5Splus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xm6_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xmNOTE2-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/xmad_14926862610682_UhkfS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/yanzhengma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/yyymix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/image/z5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/static/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/fina-1.0-SNAPSHOT/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/gyh-test/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="F:/桌面/3/第二周/第五天/project/ssm-layui/ssm-layui.iml" afterDir="false" />
+      <change afterPath="F:/桌面/3/第二周/第四天/project/springmvc-02new/springmvc-02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qqqqqq/qqqqqq.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gyh-test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\javaDAIMA\gyh-test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kXgKK0OtaB8hpt6AjA0nA6BEcG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.utils" />
+      <recent name="com.qf.interceptor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\javaDAIMA\gyh-test\src\main\webapp" />
+      <recent name="F:\javaDAIMA\gyh-test\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.591" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.591" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="gyh-test:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_781_gyh-test_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59647" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="gyh-test:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.781" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59647" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59648" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a617c66-7960-4aa6-b811-aaaf88ad8209" name="Default Changelist" comment="" />
+      <created>1605852284598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605852284598</updated>
+      <workItem from="1605852286012" duration="18189000" />
+      <workItem from="1606025850728" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="gyh" />
+    <option name="LAST_COMMIT_MESSAGE" value="gyh" />
+  </component>
+</project>
