@@ -443,7 +443,6 @@
       <change beforePath="$PROJECT_DIR$/../firstspring/target/firstspring-1.0-SNAPSHOT/teacher.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/test-classes/com/qf/TestSpring.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../firstspring/target/test-classes/com/qf/Testtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mavenservlet/.idea/mavenservlet.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../qqqqqq/.idea/compiler.xml" beforeDir="false" />
@@ -718,7 +717,7 @@
       <updated>1605852284598</updated>
       <workItem from="1605852286012" duration="18189000" />
       <workItem from="1606025850728" duration="2526000" />
-      <workItem from="1606029056404" duration="378000" />
+      <workItem from="1606029056404" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="gyh">
       <created>1606026718192</created>
@@ -727,7 +726,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606026718192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gyh">
+      <created>1606029521104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606029521104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
